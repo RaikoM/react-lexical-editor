@@ -1,0 +1,1 @@
+# tailwind-lexical-editor
